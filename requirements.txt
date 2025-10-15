@@ -1,0 +1,14 @@
+# Spotify Works Matcher - Requirements
+# Python 3.10+
+
+# HTTP requests and API interactions
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Data processing
+python-dotenv>=1.0.0
+pyperclip>=1.8.0
+
+# Optional: For enhanced matching
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
